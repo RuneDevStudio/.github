@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+**This organization is used for the development of my 2D-ARPG Irminsul - a dark fantasy pixel art game, inspired by mythology and folklore.**
 
-**Here are some ideas to get you started:**
+### My socials & further resources about Irminsul
+**[Substack](https://substack.com/@runedev)** - Here you can find content about the lore and wordlbuilding of Irminsul.
+**[Youtube](https://www.youtube.com/@runeedev)** - Here you can find devlogs and further content about the development and creation of the game.
+**[Instagram](https://www.instagram.com/runedev_/)**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
