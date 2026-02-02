@@ -1,9 +1,13 @@
-## Hi there 👋
+# Irminsul
 
-**This organization is used for the development of my 2D-ARPG Irminsul - a dark fantasy pixel art game, inspired by mythology and folklore.**
+Irminsul is a 2D action RPG and worldbuilding project inspired by mythology,
+folklore, and dark fantasy.
 
-### My socials & further resources about Irminsul
-- **[Substack](https://substack.com/@runedev)** - Here you can find content about the lore and wordlbuilding of Irminsul.
-- **[Youtube](https://www.youtube.com/@runeedev)** - Here you can find devlogs and further content about the development and creation of the game.
-- **[Instagram](https://www.instagram.com/runedev_/)**
+This organization contains the technical foundations of the Irminsul universe —
+including gameplay systems, engine experiments, and supporting tools.
 
+## Further resources
+
+- **[Substack](https://substack.com/@runedev)** - in-world essays, fragments, and lore from the universe of Irminsul  
+- **[Youtube](https://www.youtube.com/@runeedev)** - development logs and technical breakdowns  
+- **[Instagram](https://www.instagram.com/runedev_/)** - visual snippets and pixel art from the project
